@@ -1,30 +1,56 @@
-Olá!! Eu sou o José Lourenço, estudante de Desenvolvimento! "Hello Dev's!"
+# 👋 Olá! Eu sou José Lourenço
+
+💻 Desenvolvedor Full Stack com maior afinidade pelo desenvolvimento Back-end.
+
+Atualmente atuo na Prata Digital, contribuindo com análise de sistemas, integrações entre serviços, APIs, consultas SQL, investigação de incidentes e desenvolvimento de melhorias internas.
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e utilizo este GitHub para compartilhar projetos, estudos e experimentos voltados ao desenvolvimento de software, arquitetura de aplicações, bancos de dados e automação de processos.
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block">
+  <img align="center" alt="PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vue" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Java" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Docker" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* Arquitetura de Software
+* Desenvolvimento Back-end
+* Microsserviços
+* Docker
+* Boas práticas de desenvolvimento
+* Integração entre sistemas e APIs
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/JoseLourencoCosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLourencoCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLourencoCosta&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLourencoCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLourencoCosta&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="jose-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="jose-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jose-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="jose-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jose-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jose-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img align="center" alt="jose-postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="jose-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    
-</div>
-  
-  ##
-  
-  <div> 
-  
-  <a href="https://instagram.com/jose_lourenco_personal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joselourenco.ef@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joselourencocostadasilva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-    
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="mailto:joselourenco.ef@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/joselourencocostadasilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
