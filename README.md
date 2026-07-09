@@ -36,10 +36,15 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e utilizo este GitHub 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/JoseLourencoCosta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseLourencoCosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLourencoCosta&layout=compact&langs_count=8&theme=dark"/>
-  </a>
+  <img
+    height="180em"
+    src="https://github-readme-stats-opal-nine-vhsf0mkqu8.vercel.app/api?username=JoseLourencoCosta&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-opal-nine-vhsf0mkqu8.vercel.app/api/top-langs/?username=JoseLourencoCosta&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  />
 </div>
 
 ---
