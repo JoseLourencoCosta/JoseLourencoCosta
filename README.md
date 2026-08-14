@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack com maior afinidade pelo desenvolvimento Back-end.
 
-Atualmente atuo na Prata Digital, contribuindo com análise de sistemas, integrações entre serviços, APIs, consultas SQL, investigação de incidentes e desenvolvimento de melhorias internas.
+Atualmente atuo no Prata Digital, contribuindo com análise de sistemas, integrações entre serviços, APIs, consultas SQL, investigação de incidentes e desenvolvimento de melhorias internas.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e utilizo este GitHub para compartilhar projetos, estudos e experimentos voltados ao desenvolvimento de software, arquitetura de aplicações, bancos de dados e automação de processos.
 
